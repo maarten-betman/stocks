@@ -1,5 +1,6 @@
 yfinance==0.1.59
 plotly==4.14.3
 streamlit==0.80.0
+convertdate
 pystan==3.0.2
 fbprophet==0.7.1
