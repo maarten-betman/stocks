@@ -1,1 +1,1 @@
-# stocks
+# stocks prediction web app
